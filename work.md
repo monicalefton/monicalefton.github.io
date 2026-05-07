@@ -2,7 +2,7 @@
 layout: default
 title: Work
 ---
-# My Work & Projects
+# My Work
 Here is a collection of things I've worked on.
 
 ### Featured Projects
