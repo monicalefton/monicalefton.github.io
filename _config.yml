@@ -1,3 +1,12 @@
 remote_theme: pages-themes/minimal
 title: Monica Lefton
-description: Personal Brand & Portfolio
+description: Communicator | Writer | Reader
+
+# Some themes use this for navigation:
+nav_links:
+  - title: About
+    url: /
+  - title: Work
+    url: /work
+  - title: Intermission
+    url: /intermission
